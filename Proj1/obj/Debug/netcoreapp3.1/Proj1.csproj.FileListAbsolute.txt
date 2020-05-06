@@ -1,0 +1,13 @@
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.csprojAssemblyReference.cache
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.csproj.CoreCompileInputs.cache
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.AssemblyInfoInputs.cache
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.AssemblyInfo.cs
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.exe
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.deps.json
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.runtimeconfig.json
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.runtimeconfig.dev.json
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.dll
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\bin\Debug\netcoreapp3.1\Proj1.pdb
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.dll
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.pdb
+D:\VSprojects\EmployeeIncome\Proj1\Proj1\obj\Debug\netcoreapp3.1\Proj1.genruntimeconfig.cache
